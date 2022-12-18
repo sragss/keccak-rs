@@ -18,3 +18,6 @@ criterion = "0.4"
 [[bench]]
 name = "speed"
 harness = false
+
+[profile.bench]
+debug = true

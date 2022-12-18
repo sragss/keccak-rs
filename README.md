@@ -21,3 +21,4 @@ Does not include most of the sponge construction as we only allow a 32byte outpu
 - `cargo build`
 - `cargo test`
 - `cargo bench`
+- `cargo flamegraph --bench speed -- --bench`
